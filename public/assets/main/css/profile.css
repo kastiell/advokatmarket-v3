@@ -1,0 +1,151 @@
+#all{
+    width: 841px;
+    margin: auto;
+}
+
+#contentInAll{
+    width: 860px;
+//margin: auto;
+height: 100%;
+//border: 1px solid;
+}
+
+.col-1-1,.col-1-2,.col-1-3,.col-1-4{
+    padding-top: 20px;
+}
+.col-1-1 {
+    width: 16%;
+}
+.col-1-2 {
+    width: 81%;
+}
+.col-1-3 {
+    width: 80%;
+    text-align: right;
+}
+.col-1-3 button{
+    width: 200px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#onlineLawyer{
+    text-align: center;
+}
+
+#logoLawyer{
+    width: 90px;
+    height: 117px;
+    margin: auto;
+}
+
+#cityLawyer{
+    margin-top: 15px;
+}
+
+#nameLawyer{
+    font: 13px 'Helvetica Neue', Helvetica, Arial, Tahoma;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    font-size: 20px;
+    color: #3498db;
+}
+
+[class*='col-3-'],[class*='col-4-']{
+    width: 100%;
+}
+
+.col-3-1,.col-3-3{
+    text-align: center;
+    font-size: 17px;
+    padding: 10px 0;
+    border-bottom: 1px solid #FFFFFF;
+    margin-bottom: 10px;
+    color: #302e28;
+    font-size: 19px;
+    text-align: left;
+    font-weight: bold;
+    text-indent: 10px;
+    border-top: 1px solid #C2C2C2;
+    margin-top: 20px;
+}
+
+.col-3-3{
+    margin-top: 20px;
+}
+
+.col-3-2,.col-3-4{
+    text-indent: 10px;
+}
+
+.grid_padding{
+    padding:20px;
+    padding-top:0px;
+}
+
+.title-login{
+    text-align: center;
+    margin: 13px;
+    font-size: 32px;
+    color: #3498db;
+    /*border-bottom: 1px dotted #f29f1d;*/
+}
+
+.col-main-left-1{
+    width: 100%;
+    box-shadow: 0 2px 1px rgba(0,0,0,0.2);
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.col-main-right-1,.col-main-left-1{
+    margin-top: 12px;
+    margin-bottom: 150px;
+}
+
+.col-main-1,.col-main-2{
+    width: 100%;
+}
+
+.col-top-title{
+    margin-top: 10px;
+}
+
+.float-modal-top1,.float-modal-bot{
+    display: none;
+}
+
+.close_cr{
+    background-image: url('../images/close_cr.png');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+#basic-modal-content{
+    overflow: visible;
+    background-image: url("../images/R6.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50%;
+    box-shadow: 2px 2px 7px #000;
+    border-radius: 5px;
+}
+
+.simplemodal-wrap{
+    overflow: visible !important;
+}
+
+#simplemodal-container{
+    border: none;
+    background-color: inherit;
+    width: 620px !important;
+}
+
+.close_btn{
+    display: none;
+}

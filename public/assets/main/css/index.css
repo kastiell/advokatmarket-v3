@@ -1,0 +1,366 @@
+.top-title-modal{
+    padding: 15px;
+    border-bottom: 1px solid #000;
+}
+
+.bot-title-modal{
+    padding: 15px;
+    border-top: 1px solid #000;
+}
+
+.content-modal-block{
+    //padding:0 15px 15px 15px;
+}
+
+.type-ask-block{
+    display:none;
+}
+
+.type-ask .type-ask-block{
+    display: block;
+}
+
+.type-ask .pass-block{
+    display: none;
+}
+
+.open_form{
+    display: block;
+}
+
+.close_form{
+    display: none;
+}
+
+/* content */
+
+.content-index{
+    width: 900px;
+    margin: auto;
+    padding-top: 75px;
+}
+
+
+.block-margin{
+    margin: 15px 50px 0 50px;
+}
+
+.content-index-box{
+    width: 900px;
+    margin: auto;
+}
+
+.find-block-index{
+    width: 100%;
+}
+
+.title-index{
+    text-align: center;
+    font-family: 'Calibri', Arial, "Lucida Grande", sans-serif;
+    font-weight: lighter;
+    font-size: 36px;
+    color: #575757;
+}
+
+
+.find-lawyer-index,.send-msg-index{
+    box-shadow: 0 2px 1px rgba(0,0,0,0.2);
+    margin-top: 20px;
+    width: 850px;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.send-msg-index{
+    padding-bottom: 20px;
+}
+
+.col-input-find-index{
+    width: 30%;
+    text-align: right;
+}
+
+.col-select-find-index{
+    width: 50%;
+    text-align: left;
+}
+
+.col-select-find-index select{
+    width: 98%;
+}
+
+.col-input-send,.col-button-send{
+
+}
+
+.col-input-send{
+    width: 80%;
+}
+
+.col-input-send textarea{
+    width: 93%;
+    height: 22px;
+    overflow: hidden;
+}
+
+.col-button-send{
+    width: 20%;
+    text-align: right;
+}
+
+.col-info-send-msg-index{
+    width: 100%;
+    text-align: center;
+    padding: 15px 0 0 0;
+    color: #A5A5A5;
+}
+
+.col-but-find-index{
+    width: 20%;
+    text-align: right;
+}
+
+.bot-box{
+    width: 100%;
+    margin: auto;
+    margin-top: 150px;
+    height: 175px;
+    background-color: #2c3e50;
+}
+
+.col-left-box-i,.col-right-box-i{
+    background-color: #34495e;
+    width: 49%;
+    height: 175px;
+}
+
+.col-left-box-i{
+    margin-right: 6px;
+}
+
+.col-info-box{
+    margin-top: 35px;
+    color: #fff;
+    font-family: 'PT Sans';
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.col-btn-box{
+    margin-top: 3px;
+}
+
+.col-input-box{
+    margin-right: 8px;
+}
+
+.col-input-box select{
+    width: 240px;
+}
+
+.col-wrap-grid{
+    padding-left: 73px;
+}
+
+.input-block-index-q{
+    width: 751px;
+    background-color: #fff;
+    margin: auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 2px 1px rgba(0,0,0,0.2);
+    margin-top: 20px;
+}
+
+textarea{
+    border: none;
+    resize: none;
+}
+
+.col-txt-area{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.col-txt-area textarea{
+    width: 710px;
+    height: 80px;
+}
+
+.col-inp-name,.col-inp-phone,.col-inp-email{
+    width: 236px;
+}
+
+.col-inp-phone{
+    margin: 0 20px;
+}
+
+.col-inp-name input,.col-inp-phone input,.col-inp-email input{
+    width: 196px;
+}
+
+.col-inp-city{
+    width: 100%;
+}
+
+.col-inp-city input{
+    width: 196px;
+    margin: 0px 0px;
+}
+
+.col-inp-file{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.piece-ask-status .col-inp-name,.piece-ask-status .col-inp-phone,.piece-ask-status .col-inp-email,.piece-ask-status .col-inp-city,.piece-ask-status .col-inp-file,.piece-ask-status .col-inp-submit{
+    display: none;
+}
+
+.full-ask-status .col-button-send,.full-ask-status .col-info-send-msg-index{
+    display: none;
+}
+
+.full-ask-status .col-input-send textarea{
+    width: 708px;
+    height: 80px;
+    min-height: 80px;
+}
+
+.full-ask-status .col-input-send{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.full-ask-status .grid.send-msg-index{
+    width: 751px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.title-free-block{
+    position: relative;
+}
+
+.title-free{
+    width: 100px;
+    height: 30px;
+    top: -15px;
+    right: 10%;
+    position: absolute;
+    background-image: url("../images/free.png");
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+
+.step-1,.step-2{
+    position: relative;
+}
+
+.step-2 .float-modal-top,.step-3 .float-modal-top{
+    text-align: left;
+    padding-left: 53px;
+    padding-top: 15px;
+
+}
+
+.step-2 .float-modal-top span,.step-3 .float-modal-top span{
+    /*color: #f29f1d;
+    font-weight: bold;*/
+    color: #FFB745;
+    font-size: 19px;
+}
+
+.step-3 .float-modal-top span{
+    color: #FFB745;
+    font-size: 18px;
+}
+
+.step-3 .float-modal-top{
+    text-align: center;
+    padding-left: 35px;
+    padding-top: 15px;
+}
+
+.step-2 .row.buttons,.step-3 .row.buttons{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.step-2 .close_cr{
+    background-image: url('../images/close_cr1.png');
+}
+
+.step-2 .close_btn span{
+    color: #f29f1d;
+    display: none;
+}
+
+.step-2 .close_btn:hover{
+    cursor: pointer;
+}
+
+.step-2 .row,.step-3 .row{
+    color: #fff;
+}
+
+.step-3 .row{
+    text-align: center;
+}
+
+.step-2 .radio-to,.step-3 .radio-to{
+    margin-bottom: 10px;
+}
+
+.close_cr{
+    background-image: url('../images/close_cr.png');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+#basic-modal-content{
+    overflow: visible;
+    background-image: url("../images/R6.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50%;
+    box-shadow: 2px 2px 7px #000;
+    border-radius: 5px;
+}
+
+.simplemodal-wrap{
+    overflow: visible !important;
+}
+
+#simplemodal-container{
+    border: none;
+    background-color: inherit;
+    width: 620px !important;
+}
+
+.step-3 .block-margin{
+    margin: 15px 50px 0 35px;
+}
+
+.step-3 .pass-text-ins,.step-3 .email-text-ins{
+    color: #FFF;
+}
+
+.step-3 .radio-to{
+    color: #444;
+}
+
+.col-inp-city{
+    width: 236px;
+    margin: 20px 0;
+}

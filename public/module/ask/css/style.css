@@ -1,0 +1,25 @@
+
+.field-on-logout{
+//display: block !important;
+}
+
+
+.close{
+    display: none;
+}
+
+.form-open{
+    display: block;
+}
+
+.form-close{
+    display: none;
+}
+
+.form-1-open .step-1,.form-2-open .step-2,.form-3-open .step-3{
+    display: block;
+}
+
+.form-1-open .step-2,.form-1-open .step-3,.form-2-open .step-1,.form-2-open .step-3,.form-3-open .step-2,.form-3-open .step-1{
+    display: none;
+}

@@ -1,0 +1,42 @@
+.header{
+//background: url(../images/top_l.png) repeat-x bottom left;
+}
+
+#all{
+    height: 501px;
+    width: 100%;
+    width: 841px;
+    padding: 8px;
+    background: url(../images/top_l.png) repeat-x top left;
+}
+
+#topGrid{
+    margin: 12px;
+    margin-right: 15px;width: 498px;
+}
+
+#contentInAll{
+    width: 860px;
+//margin: auto;
+    height: 100%;
+//border: 1px solid;
+}
+
+#topPanel{
+    width: 100%;
+//height: 200px;
+//border-bottom: 1px solid;
+}
+
+#botPanel{
+    width: 100%;
+    height: 200px;
+}
+
+.col-left{
+    width: 150px;
+}
+
+.col-right{
+    width: 740px;
+}

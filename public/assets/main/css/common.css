@@ -1,0 +1,446 @@
+
+.grid:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+[class*="col-"]{
+    float: left;
+}
+[class*="rcol-"]{
+    float: right;
+}
+
+/* ------------------------------ */
+
+.inherit-a{
+    color: inherit;
+    text-decoration: none;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'PT Sans';
+}
+
+#main_god{
+    width: 100%;
+    margin: auto;
+    //background-image: url(../images/bg2.png);
+    background-image: url(../images/GODImage.png);
+    background-size: 100%;
+    //background-repeat: no-repeat;
+    background-repeat-y: initial;
+}
+
+.content_block_main{
+    min-height: 700px;
+}
+
+#top-header-block{
+    height: 35px;
+    background-color: #000;
+}
+
+#top-header-content{
+    height: 35px;
+    width: 900px;
+    margin: auto;
+
+}
+
+.col-i-ua,.col-i-ru{
+    width: 50%;
+    text-align: center;
+    font-family: 'PT Sans';
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.col-i-ua:hover,.col-i-ru:hover{
+    cursor: pointer;
+}
+
+.col-i-header-left{
+    width: 15%;
+}
+
+.col-i-header-right{
+    width: 85%;
+}
+
+.maxwidth{
+    width: 100%;
+}
+
+#header{
+    box-shadow: 0px 1px 10px #DDDDDD;
+}
+/*
+#footer{
+    box-shadow: 0px -1px 10px #DDDDDD;
+}
+*/
+.rcol-i-login,.rcol-i-lawyer,.rcol-i-phone,.col-i-ua,.col-i-ru{
+    height: 35px;
+    color: #fff;
+    font-family: 'PT Sans';
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.rcol-i-login,.rcol-i-lawyer,.rcol-i-phone{
+    font-size: 13px;
+}
+.rcol-i-lawyer,.rcol-i-phone{
+    padding: 0 17px;
+    border-right:2px solid #444444;
+}
+
+.rcol-i-login{
+    padding-left: 17px;
+}
+.rcol-i-phone{
+    padding-left: 7px;
+}
+
+.rcol-i-login div,.rcol-i-lawyer div,.rcol-i-phone div,.col-i-ua div,.col-i-ru div{
+    padding-top: 9px;
+
+}
+
+.rcol-i-login span:hover,.rcol-i-lawyer span:hover{
+    border-bottom:1px dotted #fff;
+}
+
+.col-i-header-left .selected-local{
+    background-color: #fff;
+    color: #000;
+}
+
+.rcol-i-iphone{
+    width: 15px;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-position: 2px 10px;
+    background-image: url(../images/iPhone.png);
+}
+
+#top-header-logo{
+    background-color: #fff;
+    padding: 13px 0 19px 0;
+}
+
+#logo-block-header{
+    width: 900px;
+    margin: auto;
+}
+
+#logo-i img{
+    width: 150px;
+}
+
+.col-logo-left{
+    width: 18%;
+}
+
+.col-logo-right{
+    width: 82%;
+    text-align: right;
+}
+
+#but-index{
+    display: inline-block;
+    padding-top: 17px;
+}
+
+.col-i-but{
+    padding: 5px;
+    width: 200px;
+    font-family: 'PT Sans';
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    border: 2px solid #3498db;
+}
+
+.grid.but-logo-b .col-i-but:first-child{
+    border: 2px solid #3498db;
+    border-radius:5px 0px 0px 5px;
+}
+
+.grid.but-logo-b .col-i-but:last-child{
+    border: 2px solid #3498db;
+    border-left: 0px;
+    border-radius:0px 5px 5px 0px;
+}
+
+.col-i-but{
+    background-color: #3498db;
+    color: #fff;
+}
+
+.col-i-but.selected{
+    background-color: #fff;
+    color: #3498db;
+}
+
+/*
+.col-i-but.selected a:hover{
+    border-bottom: 1px dotted #3498db;
+}
+
+.col-i-but a:hover{
+    border-bottom: 1px dotted #fff;
+}
+*/
+/* ------------------------------------------ */
+
+#content{
+    width: 100%;
+    margin: auto;
+    /*background-image: url("../images/Opa.png");
+    background-position: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;*/
+}
+
+/* ------------------------------------------ */
+
+#footer{
+    width: 900px;
+    height: 77px;
+    margin: auto;
+}
+
+.col-info-i-foo,.col-img-i-foo,.col-social-i-foo{
+    height: 40px;
+}
+
+.col-info-i-foo{
+    width: 30%;
+    font-family: 'PT Sans';
+    text-align: left;
+    font-weight: normal;
+    font-size: 13px;
+    margin-top: 34px;
+}
+
+.col-img-i-foo{
+    width: 45%;
+    background-image: url(../images/foo_img.png);
+    background-repeat: no-repeat;
+    margin-top: 23px;
+}
+
+.col-social-i-foo{
+    width: 25%;
+    text-align: right;
+    margin-top: 30px;
+}
+
+.foo-social-v{
+    background-image: url(../images/v.png);
+    width: 26px;
+    height: 26px;
+    background-repeat: no-repeat;
+}
+.foo-social-o{
+    background-image: url(../images/o.png);
+    width: 26px;
+    height: 26px;
+    background-repeat: no-repeat;
+}
+.foo-social-f{
+    background-image: url(../images/f.png);
+    width: 26px;
+    height: 26px;
+    background-repeat: no-repeat;
+}
+
+.foo-social-v,.foo-social-o,.foo-social-f{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+input[type=text],input[type=password],textarea,.i-default{
+    border: none;
+    background-color: #e7ebec;
+    padding: 10px 20px;
+    color: #575757;
+    text-shadow: 0px 0px 0px #575757;
+    font-size: 17px;
+    font-family: 'PT Sans';
+    font-weight: normal;
+    vertical-align: top;
+}
+
+button,.button{
+    background-color: #3498db;
+    border: none;
+    color: #fff;
+    font-size: 15px;
+    font-family: 'PT Sans';
+    font-weight: bold;
+    padding: 10px 15px;
+    box-shadow: 1px 2px 1px #1d72aa;
+    border-radius: 2px;
+    vertical-align: top;
+    text-decoration: none;
+}
+
+button:active,.button:active{
+    box-shadow: 0px 1px 1px #1d72aa;
+}
+
+button:hover,.button:hover{
+    cursor: pointer;
+}
+
+
+select{
+    padding: 8px 20px;
+    color: #575757;
+    text-shadow: 0px 0px 0px #575757;
+    font-size: 17px;
+    font-family: 'PT Sans';
+    font-weight: normal;
+    border-radius: 4px;
+    border: 1px solid rgba(0,0,0,0.2);
+}
+
+
+.b-yellow{
+    background-color: #f29f1d;
+    box-shadow: 1px 2px 1px #b37412;
+}
+
+.b-red{
+    background-color: #F34A4A;
+    box-shadow: 1px 2px 1px #9E0D2A;
+}
+
+
+.b-search{
+    background-image: url("../images/Search.png");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    width: 39px;
+    height: 39px;
+}
+.pager{
+    margin: 5px 0 0 0 !important;
+    text-align: left !important;
+    padding: 14px 24px !important;
+}
+
+.pPrevious.hidden a{
+    border: none;
+    color: #bbbbbb;
+    font-size: 18px;
+}
+
+.pPage a{
+    border: none !important;
+    font-weight: bold !important;
+    color: #3498db !important;
+    text-decoration: none !important;
+    font-size: 16px !important;
+    padding: 3px 5px !important;
+    border-radius: 4px !important;
+}
+
+.pPage a:hover,.pSelected a{
+    background-color: #3498db !important;
+    color: #fff !important;
+}
+
+.pPrevious a,.pNext a{
+    padding: 0px 1px !important;
+    border: none !important;
+    font-size: 16px !important;
+    color: #3498db !important;
+}
+
+.pPrevious.hidden a,.pNext.hidden a{
+    color: #888888 !important;
+}
+
+.errorMessage{
+    border: 1px solid #CF4343;
+    position: absolute;
+    z-index: 2;
+}
+
+.error{
+    position: relative;
+}
+
+.a-com{
+    font: 13px 'Helvetica Neue', Helvetica, Arial, Tahoma;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    font-size: 18px;
+    color: #3498db;
+    text-decoration: none;
+}
+
+.a-com:hover{
+    border-bottom: 1px dotted #3498db;
+}
+
+.col-sp-float a{
+    display: block;
+    padding: 5px;
+    color: #7a9cb3;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.spec-block-float{
+    margin: 10px 0;
+}
+
+.col-sp-float{
+    background-color: #e6f0f7;
+    border-radius: 5px;
+    margin: 0 5px 5px 0;
+}
+
+
+.close_cr{
+    background-image: url('../images/close_cr.png');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+#basic-modal-content{
+    overflow: visible;
+    background-image: url("../images/R6.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50%;
+    box-shadow: 2px 2px 7px #000;
+    border-radius: 5px;
+}
+
+.simplemodal-wrap{
+    overflow: visible !important;
+}
+
+#simplemodal-container{
+    border: none !important;
+    background-color: inherit !important;
+    width: 620px !important;
+}
+
+.blue-color{
+    color: #3498db !important;
+}
+

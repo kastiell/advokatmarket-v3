@@ -1,0 +1,2139 @@
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "id" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "first_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "last_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "type_work" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "exp" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "spec" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "country" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "city_edu" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "vnz" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "faculty" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "year_leave" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "edu_picture" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "logo_full" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:24:40 [warning] [application] Failed to set unsafe attribute "logo_small" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:20 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:27 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:29 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:40 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "id" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "first_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "last_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "type_work" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "exp" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "spec" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "country" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "city_edu" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "vnz" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "faculty" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "year_leave" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "edu_picture" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "logo_full" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:42 [warning] [application] Failed to set unsafe attribute "logo_small" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:43 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:25:45 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:20 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:29 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:33 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T2t')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T2t
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/edit/general
+---
+2014/03/17 12:40:39 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T2t')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T2t
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/edit/general
+---
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:49 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "id" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "first_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "last_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "type_work" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "exp" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "spec" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "country" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "city_edu" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "vnz" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "faculty" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "year_leave" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "edu_picture" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "logo_full" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:40:54 [warning] [application] Failed to set unsafe attribute "logo_small" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:00 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:12 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:41:51 [warning] [application] Failed to set unsafe attribute "file" of "LogoFile".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (26)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:20 [error] [php] getimagesize(http://advokatmarket.com/assets/ee16815a/95_R3nAKdTkhfSe7Q28NQkeTZtsHS58B8Rd26DA8iKfssnk7bhGRzQzf7QRQGQbFses.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 401 Authorization Required
+ (/var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php:165)
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/actions/CInlineAction.php(49): LogoController->actionAct()
+#1 /var/www/advokatmarkety/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(133): LogoController->runAction()
+#3 /var/www/advokatmarkety/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /var/www/advokatmarkety/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): LogoController->filterAccessControl()
+#6 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#8 /var/www/advokatmarkety/framework/web/CController.php(265): LogoController->runActionWithFilters()
+#9 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): LogoController->run()
+#10 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=profile/logo/act
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (165)
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (247)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:21 [error] [php] getimagesize(http://advokatmarket.com/assets/ee16815a/95_R3nAKdTkhfSe7Q28NQkeTZtsHS58B8Rd26DA8iKfssnk7bhGRzQzf7QRQGQbFses.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 401 Authorization Required
+ (/var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php:165)
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/actions/CInlineAction.php(49): LogoController->actionAct()
+#1 /var/www/advokatmarkety/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(133): LogoController->runAction()
+#3 /var/www/advokatmarkety/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /var/www/advokatmarkety/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): LogoController->filterAccessControl()
+#6 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#8 /var/www/advokatmarkety/framework/web/CController.php(265): LogoController->runActionWithFilters()
+#9 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): LogoController->run()
+#10 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=profile/logo/act
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (165)
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (247)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:22 [error] [php] getimagesize(http://advokatmarket.com/assets/ee16815a/95_R3nAKdTkhfSe7Q28NQkeTZtsHS58B8Rd26DA8iKfssnk7bhGRzQzf7QRQGQbFses.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 401 Authorization Required
+ (/var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php:165)
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/actions/CInlineAction.php(49): LogoController->actionAct()
+#1 /var/www/advokatmarkety/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(133): LogoController->runAction()
+#3 /var/www/advokatmarkety/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /var/www/advokatmarkety/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): LogoController->filterAccessControl()
+#6 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#8 /var/www/advokatmarkety/framework/web/CController.php(265): LogoController->runActionWithFilters()
+#9 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): LogoController->run()
+#10 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=profile/logo/act
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (165)
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (247)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:22 [error] [php] getimagesize(http://advokatmarket.com/assets/ee16815a/95_R3nAKdTkhfSe7Q28NQkeTZtsHS58B8Rd26DA8iKfssnk7bhGRzQzf7QRQGQbFses.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: HTTP request failed! HTTP/1.1 401 Authorization Required
+ (/var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php:165)
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/actions/CInlineAction.php(49): LogoController->actionAct()
+#1 /var/www/advokatmarkety/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(133): LogoController->runAction()
+#3 /var/www/advokatmarkety/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /var/www/advokatmarkety/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): LogoController->filterAccessControl()
+#6 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#8 /var/www/advokatmarkety/framework/web/CController.php(265): LogoController->runActionWithFilters()
+#9 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): LogoController->run()
+#10 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=profile/logo/act
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (165)
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (247)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:31 [warning] [application] Failed to set unsafe attribute "file" of "LogoFile".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/LogoController.php (26)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "id" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "first_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "last_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "type_work" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "exp" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "spec" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "country" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "city_edu" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "vnz" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "faculty" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "year_leave" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "edu_picture" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "logo_full" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:32 [warning] [application] Failed to set unsafe attribute "logo_small" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:34 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:37 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:42:39 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T2t')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T2t
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/LTape/T3
+---
+2014/03/17 12:42:42 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T2t')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T2t
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/LTape/T3
+---
+2014/03/17 12:42:47 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/LTape/T3
+---
+2014/03/17 12:42:53 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/LTape/T3
+---
+2014/03/17 12:43:01 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=main/catalog/index
+---
+2014/03/17 12:43:10 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=main/catalog/index
+---
+2014/03/17 12:43:14 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=main/catalog/index
+---
+2014/03/17 12:47:50 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=main/catalog/index
+---
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:34 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:36 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/edit/general
+---
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:41 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:45 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "id" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "first_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "last_name" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "type_work" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "exp" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "spec" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "country" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "city_edu" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "vnz" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "faculty" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "year_leave" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "edu_picture" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "logo_full" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:49:47 [warning] [application] Failed to set unsafe attribute "logo_small" of "ContactLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (340)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:04 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (304)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:05 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/profile/controllers/EditController.php (202)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 12:52:07 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/edit/general
+---
+2014/03/17 12:52:11 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T2t')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T2t
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/edit/general
+---
+2014/03/17 12:52:16 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T2t')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T2t
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/LTape/T3
+---
+2014/03/17 12:52:31 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T2t')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T2t
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/LTape/T3
+---
+2014/03/17 12:52:36 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/LTape/T3
+---
+2014/03/17 12:52:44 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T2t')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T2t
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/LTape/T3
+---
+2014/03/17 12:52:48 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/advokatmarkety/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/advokatmarkety/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/advokatmarkety/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/advokatmarkety/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/advokatmarkety/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/advokatmarkety/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/advokatmarkety/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/advokatmarkety/framework/web/CWebApplication.php(282): CController->run('T1')
+#8 /var/www/advokatmarkety/framework/web/CWebApplication.php(141): CWebApplication->runController('profile/LTape/T...')
+#9 /var/www/advokatmarkety/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/advokatmarkety/advokatmarket.com/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php?r=profile/LTape/T1
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/LTape/T3
+---
+2014/03/17 13:18:21 [warning] [application] Failed to set unsafe attribute "name" of "AskForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/main/controllers/AskController.php (90)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 13:18:21 [warning] [application] Failed to set unsafe attribute "phone" of "AskForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/main/controllers/AskController.php (90)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 13:18:21 [warning] [application] Failed to set unsafe attribute "email" of "AskForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/main/controllers/AskController.php (90)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2014/03/17 13:18:21 [warning] [application] Failed to set unsafe attribute "city" of "AskForm".
+in /var/www/advokatmarkety/advokatmarket.com/protected/modules/main/controllers/AskController.php (90)
+in /var/www/advokatmarkety/advokatmarket.com/index.php (13)
+2015/01/08 06:45:25 [error] [php] Undefined index: main/catalog (C:\xampp\htdocs\advokatmarket.com\protected\modules\main\views\layouts\main.php:93)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\widgets\CContentDecorator.php(76): IndexController->renderFile()
+#1 C:\xampp\htdocs\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\framework\web\CBaseController.php(300): IndexController->endWidget()
+#5 C:\xampp\htdocs\advokatmarket.com\protected\modules\main\views\layouts\column1.php(6): IndexController->endContent()
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): IndexController->renderInternal()
+#8 C:\xampp\htdocs\framework\web\CController.php(784): IndexController->renderFile()
+#9 C:\xampp\htdocs\advokatmarket.com\protected\modules\main\controllers\IndexController.php(56): IndexController->render()
+#10 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): IndexController->actionIndex()
+#11 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): IndexController->runAction()
+#13 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#15 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): IndexController->filterAccessControl()
+#16 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#17 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#18 C:\xampp\htdocs\framework\web\CController.php(265): IndexController->runActionWithFilters()
+#19 C:\xampp\htdocs\framework\web\CWebApplication.php(282): IndexController->run()
+#20 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 C:\xampp\htdocs\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#22 C:\xampp\htdocs\advokatmarket.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/advokatmarket.com/
+in C:\xampp\htdocs\advokatmarket.com\protected\modules\main\views\layouts\main.php (93)
+in C:\xampp\htdocs\advokatmarket.com\protected\modules\main\views\layouts\column1.php (6)
+in C:\xampp\htdocs\advokatmarket.com\protected\modules\main\controllers\IndexController.php (56)
+2015/01/08 06:51:12 [error] [php] Undefined index: main/catalog (C:\xampp\htdocs\advokatmarket.com\protected\modules\main\views\layouts\main.php:93)
+Stack trace:
+#0 C:\xampp\htdocs\framework\web\widgets\CContentDecorator.php(76): IndexController->renderFile()
+#1 C:\xampp\htdocs\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\framework\web\CBaseController.php(300): IndexController->endWidget()
+#5 C:\xampp\htdocs\advokatmarket.com\protected\modules\main\views\layouts\column1.php(6): IndexController->endContent()
+#6 C:\xampp\htdocs\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\framework\web\CBaseController.php(95): IndexController->renderInternal()
+#8 C:\xampp\htdocs\framework\web\CController.php(784): IndexController->renderFile()
+#9 C:\xampp\htdocs\advokatmarket.com\protected\modules\main\controllers\IndexController.php(56): IndexController->render()
+#10 C:\xampp\htdocs\framework\web\actions\CInlineAction.php(49): IndexController->actionIndex()
+#11 C:\xampp\htdocs\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(133): IndexController->runAction()
+#13 C:\xampp\htdocs\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 C:\xampp\htdocs\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#15 C:\xampp\htdocs\framework\web\filters\CInlineFilter.php(58): IndexController->filterAccessControl()
+#16 C:\xampp\htdocs\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#17 C:\xampp\htdocs\framework\web\CController.php(291): CFilterChain->run()
+#18 C:\xampp\htdocs\framework\web\CController.php(265): IndexController->runActionWithFilters()
+#19 C:\xampp\htdocs\framework\web\CWebApplication.php(282): IndexController->run()
+#20 C:\xampp\htdocs\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 C:\xampp\htdocs\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#22 C:\xampp\htdocs\advokatmarket.com\index.php(13): CWebApplication->run()
+REQUEST_URI=/advokatmarket.com/
+in C:\xampp\htdocs\advokatmarket.com\protected\modules\main\views\layouts\main.php (93)
+in C:\xampp\htdocs\advokatmarket.com\protected\modules\main\views\layouts\column1.php (6)
+in C:\xampp\htdocs\advokatmarket.com\protected\modules\main\controllers\IndexController.php (56)
+2015/01/08 07:00:46 [warning] [application] Failed to set unsafe attribute "id" of "GeneralClientForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (170)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:00:46 [warning] [application] Failed to set unsafe attribute "first_name" of "GeneralClientForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (170)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:00:47 [error] [php] Undefined index: CInfo (C:\xampp\htdocs\protected\modules\profile\views\layouts\panelClient.php:22)
+Stack trace:
+#0 C:\xampp\framework\web\widgets\CContentDecorator.php(76): EditController->renderFile()
+#1 C:\xampp\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\framework\web\CBaseController.php(300): EditController->endWidget()
+#5 C:\xampp\htdocs\protected\modules\profile\views\edit\layouts\panelTopClient.php(25): EditController->endContent()
+#6 C:\xampp\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\framework\web\CBaseController.php(95): EditController->renderInternal()
+#8 C:\xampp\framework\web\CController.php(784): EditController->renderFile()
+#9 C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php(174): EditController->render()
+#10 C:\xampp\framework\web\actions\CInlineAction.php(49): EditController->actionClientGeneral()
+#11 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\framework\web\filters\CFilterChain.php(133): EditController->runAction()
+#13 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#15 C:\xampp\framework\web\filters\CInlineFilter.php(58): EditController->filterAccessControl()
+#16 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#17 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#18 C:\xampp\framework\web\CController.php(265): EditController->runActionWithFilters()
+#19 C:\xampp\framework\web\CWebApplication.php(282): EditController->run()
+#20 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#22 C:\xampp\htdocs\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=profile/edit/clientGeneral
+in C:\xampp\htdocs\protected\modules\profile\views\layouts\panelClient.php (22)
+in C:\xampp\htdocs\protected\modules\profile\views\edit\layouts\panelTopClient.php (25)
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (174)
+2015/01/08 07:03:07 [warning] [application] Failed to set unsafe attribute "id" of "GeneralClientForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (170)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:03:07 [warning] [application] Failed to set unsafe attribute "first_name" of "GeneralClientForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (170)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:03:11 [error] [php] Undefined index: clientgeneral (C:\xampp\htdocs\protected\modules\profile\views\edit\layouts\panelTopClient.php:15)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(784): EditController->renderFile()
+#1 C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php(142): EditController->render()
+#2 C:\xampp\framework\web\actions\CInlineAction.php(49): EditController->actionClientChLogin()
+#3 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#4 C:\xampp\framework\web\filters\CFilterChain.php(133): EditController->runAction()
+#5 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#7 C:\xampp\framework\web\filters\CInlineFilter.php(58): EditController->filterAccessControl()
+#8 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#9 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\framework\web\CController.php(265): EditController->runActionWithFilters()
+#11 C:\xampp\framework\web\CWebApplication.php(282): EditController->run()
+#12 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#13 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=profile/edit/clientchlogin
+in C:\xampp\htdocs\protected\modules\profile\views\edit\layouts\panelTopClient.php (15)
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (142)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:03:51 [warning] [application] Failed to set unsafe attribute "id" of "GeneralClientForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (170)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:03:51 [warning] [application] Failed to set unsafe attribute "first_name" of "GeneralClientForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (170)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [warning] [application] Failed to set unsafe attribute "public_email" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:04:45 [error] [php] Undefined index: t2t (C:\xampp\htdocs\protected\modules\profile\views\layouts\panelLawyer.php:59)
+Stack trace:
+#0 C:\xampp\framework\web\widgets\CContentDecorator.php(76): EditController->renderFile()
+#1 C:\xampp\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\framework\web\CBaseController.php(300): EditController->endWidget()
+#5 C:\xampp\htdocs\protected\modules\profile\views\edit\layouts\panelTopLawyer.php(27): EditController->endContent()
+#6 C:\xampp\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\framework\web\CBaseController.php(95): EditController->renderInternal()
+#8 C:\xampp\framework\web\CController.php(784): EditController->renderFile()
+#9 C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php(206): EditController->render()
+#10 C:\xampp\framework\web\actions\CInlineAction.php(49): EditController->actionGeneral()
+#11 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\framework\web\filters\CFilterChain.php(133): EditController->runAction()
+#13 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#15 C:\xampp\framework\web\filters\CInlineFilter.php(58): EditController->filterAccessControl()
+#16 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#17 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#18 C:\xampp\framework\web\CController.php(265): EditController->runActionWithFilters()
+#19 C:\xampp\framework\web\CWebApplication.php(282): EditController->run()
+#20 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#22 C:\xampp\htdocs\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=profile/edit/general
+in C:\xampp\htdocs\protected\modules\profile\views\layouts\panelLawyer.php (59)
+in C:\xampp\htdocs\protected\modules\profile\views\edit\layouts\panelTopLawyer.php (27)
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (206)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:34 [warning] [application] Failed to set unsafe attribute "public_email" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:42 [warning] [application] Failed to set unsafe attribute "public_email" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:45 [error] [exception.CException] exception 'CException' with message 'The asset "C:\xampp\htdocs\protected\data\uploads\logo\small/99_ErAkZQfNBhiZKG2HiksfdAYsseaiyZA3aZb2AiA3yHN6dADrNTASff8Ak8HHY8AZ.png" to be published does not exist.' in C:\xampp\framework\web\CAssetManager.php:257
+Stack trace:
+#0 C:\xampp\htdocs\protected\modules\profile\controllers\LogoController.php(99): CAssetManager->publish('C:\\xampp\\htdocs...')
+#1 C:\xampp\framework\web\actions\CInlineAction.php(49): LogoController->actionIndex()
+#2 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#3 C:\xampp\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 C:\xampp\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 C:\xampp\framework\web\CWebApplication.php(282): CController->run('index')
+#11 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController('profile/logo/in...')
+#12 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/index.php?r=profile/logo/index
+HTTP_REFERER=http://advokatmarket.com/index.php?r=profile/edit/edu
+---
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "id" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "name" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "first_name" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "last_name" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "type_work" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "exp" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "spec" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "country" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "city_edu" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "phone" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "city" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "street" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "apartment" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "site" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "edu_picture" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "logo_full" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "logo_small" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:52 [warning] [application] Failed to set unsafe attribute "public_email" of "EduLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (304)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "id" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "name" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "first_name" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "last_name" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "type_work" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "exp" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "spec" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "country" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "city_edu" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "vnz" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "faculty" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "year_leave" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "edu_picture" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "logo_full" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "logo_small" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:05:55 [warning] [application] Failed to set unsafe attribute "public_email" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:23 [error] [php] Undefined variable: idCons (C:\xampp\htdocs\protected\modules\profile\views\msg\client\index.php:170)
+Stack trace:
+#0 C:\xampp\framework\web\CController.php(869): MsgController->renderFile()
+#1 C:\xampp\framework\web\CController.php(782): MsgController->renderPartial()
+#2 C:\xampp\htdocs\protected\modules\profile\controllers\MsgController.php(60): MsgController->render()
+#3 unknown(0): MsgController->actionIndex()
+#4 C:\xampp\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#5 C:\xampp\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 C:\xampp\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\framework\web\filters\CFilterChain.php(133): MsgController->runAction()
+#8 C:\xampp\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\framework\web\filters\CInlineFilter.php(58): MsgController->filterAccessControl()
+#11 C:\xampp\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\framework\web\CController.php(265): MsgController->runActionWithFilters()
+#14 C:\xampp\framework\web\CWebApplication.php(282): MsgController->run()
+#15 C:\xampp\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=profile/msg/index&id=13
+in C:\xampp\htdocs\protected\modules\profile\views\msg\client\index.php (170)
+in C:\xampp\htdocs\protected\modules\profile\controllers\MsgController.php (60)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:42 [warning] [application] Failed to set unsafe attribute "public_email" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:06:57 [warning] [application] Failed to set unsafe attribute "public_email" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:15 [warning] [application] Failed to set unsafe attribute "public_email" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "id" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "country" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "city_edu" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "vnz" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "faculty" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "year_leave" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "phone" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "city" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "street" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "apartment" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "site" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "edu_picture" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "logo_full" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "logo_small" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:17 [warning] [application] Failed to set unsafe attribute "public_email" of "GeneralLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (202)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "id" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "name" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "first_name" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "last_name" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "type_work" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "exp" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "spec" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "country" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "city_edu" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "vnz" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "faculty" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "year_leave" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "edu_picture" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "logo_full" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "logo_small" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
+2015/01/08 07:07:25 [warning] [application] Failed to set unsafe attribute "public_email" of "ContactLawyerForm".
+in C:\xampp\htdocs\protected\modules\profile\controllers\EditController.php (340)
+in C:\xampp\htdocs\index.php (13)
